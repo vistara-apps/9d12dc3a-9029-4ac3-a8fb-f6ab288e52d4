@@ -1,0 +1,16 @@
+{
+  "frame": {
+    "name": "FertilityFlow",
+    "version": "next",
+    "iconUrl": "https://fertilityflow.app/icon.png",
+    "homeUrl": "https://fertilityflow.app/home",
+    "splashImageUrl": "https://fertilityflow.app/splash.png",
+    "splashBackgroundColor": "#4A6E7B",
+    "webhookUrl": "https://fertilityflow.app/api/farcaster/webhook"
+  },
+  "accountAssociation": {
+    "header": "Connect your Farcaster ID to FertilityFlow to manage secure health data and communications.",
+    "payload": "User consent for data handling policies and terms of service",
+    "signature": "Wallet signature linking Farcaster identity to on-chain medical data management"
+  }
+}
